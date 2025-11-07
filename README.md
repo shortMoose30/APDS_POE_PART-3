@@ -109,6 +109,8 @@ Invalid SWIFT code
 Negative amounts
 Special characters in recipient name
 
+Link to Demo video
+https://youtu.be/0rVyug03bEY
 2. All should show appropriate error messages
 
 Test 5: Security Features
